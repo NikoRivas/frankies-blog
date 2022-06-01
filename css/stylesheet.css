@@ -1,0 +1,34 @@
+
+
+h1 {
+  text-align: center;
+}
+
+.Background {
+  color: rgb(255, 0, 255);
+  text-align: center;
+}
+
+.love {
+  color: brown;
+  text-align: left;
+}
+
+p {
+  text-align: center;
+}
+
+.hate {
+  color:rgb(21, 80, 12);
+}
+
+body {
+  background-color: rgb(232, 200, 19);
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+}
